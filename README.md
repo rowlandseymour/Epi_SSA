@@ -19,4 +19,4 @@ The idea of dispersing to another box can be extened by implementing a small wor
 
 This section comparse the ODE and stochastic models for the above scenarios. It also gives graphical outputs for the disease as a travelling wave, which passes through the boxes. 
 
-[](http://i.imgur.com/pq9GccO.png)
+![](http://i.imgur.com/pq9GccO.png)
